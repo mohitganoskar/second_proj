@@ -3,3 +3,4 @@ iphone
 Nokia
 cellone
 lenevo
+sony
