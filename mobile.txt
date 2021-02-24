@@ -2,3 +2,4 @@ onePlus
 iphone
 Nokia
 cellone
+lenevo
