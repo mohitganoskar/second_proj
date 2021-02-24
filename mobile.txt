@@ -4,3 +4,4 @@ Nokia
 cellone
 lenevo
 sony
+blackberry
